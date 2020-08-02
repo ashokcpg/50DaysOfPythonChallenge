@@ -16,3 +16,7 @@ print ('The Average of {0}, {1} and {2} is {3}'.format(firstNumber,secondNumber,
 
 #output
 
+# Enter The first Number : 10    
+# Enter The second Number : 20
+# Enter The third Number : 60
+# The Average of 10.0, 20.0 and 60.0 is 30.0
