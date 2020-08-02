@@ -2,7 +2,7 @@
 
 ch_list = ['A','F','B','Z','o','L']
 
-#Deleting the element with value 'B'
+#Deleting the element with value 'B' ,
 
 ch_list.remove('B')
 
@@ -25,3 +25,7 @@ ch_list.clear()
 #list:[]
 
 print(ch_list)
+
+#['A', 'F', 'Z', 'O', 'L']
+#['A', 'Z', 'O', 'L']
+#[]
