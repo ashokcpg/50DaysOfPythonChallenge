@@ -6,3 +6,4 @@
 | 02 | To Find Area Of Triangle |
 | 03 | To Find Averrage of three Numbers |
 | 04| Deleting elements using Remove, Pop and Clear methods |
+| 05| Program to demostrate the sqrt() Method|
