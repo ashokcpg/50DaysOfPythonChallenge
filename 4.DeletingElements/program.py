@@ -25,7 +25,7 @@ ch_list.clear()
 #list:[]
 
 print(ch_list)
-
+#Output :
 #['A', 'F', 'Z', 'O', 'L']
 #['A', 'Z', 'O', 'L']
 #[]
