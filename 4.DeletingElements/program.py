@@ -1,5 +1,4 @@
 #list of chars
-
 ch_list = ['A','F','B','Z','o','L']
 
 #Deleting the element with value 'B' ,
