@@ -1,5 +1,4 @@
 #python3 program to demostrate the sqrt() method
-
 #Import the math module import math
 
 import math
