@@ -1,6 +1,7 @@
 Number = 11
 
 # To take input from the user
+
 #Number = int(input("Enter a number: "))
 
 factorial = 1
