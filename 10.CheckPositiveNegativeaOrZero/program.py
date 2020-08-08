@@ -5,10 +5,8 @@ elif Number == 0:
    print("Zero")
 else:
    print("Negative number")
-
-
-   #output :
    
+   #output :
    #Enter a number: 11
      #Positive number
 
