@@ -11,3 +11,4 @@
 | 07| Largest Number among 3|
 | 08| Factorial of a Number|
 | 09| Program to check if the number is an Armstrong number or not|
+| 10| Program to check if the number is Positive , Negative or Zero|
