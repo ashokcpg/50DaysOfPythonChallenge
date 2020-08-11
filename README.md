@@ -13,4 +13,5 @@
 | 09| Program to check if the number is an Armstrong number or not|
 | 10| Program to check if the number is Positive , Negative or Zero|
 | 11| Program to Print all prime Numbers in an Interval|
+| 12| Python Function Basics|
 
