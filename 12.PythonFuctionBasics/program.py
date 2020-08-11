@@ -6,29 +6,12 @@ principle = int(input("Enter the Principle :"))
 year = int(input("Enter the Year :"))
 rate = int(input("Enter the Rate :"))
 print("The interest is: ")
-interest = simpleInterest(principle,year,rate) #Function Call
+interest = simpleInterest(principle,year,rate) #Function Calling 
 print(interest)
 
-
-
-
-
-
-
-
-
-
-
-
-# num = int(input("Enter a number: "))  
-# if (num % 2) == 0:
-#     print("The Number is Even")
-# else:
-#     print("Thr Number is odd")
-
-    # Enter a number: 1111      
-    # The Number is odd
-
-
-
+# Enter the Principle :1000
+# Enter the Year :5
+# Enter the Rate :10
+# The interest is: 
+# 500.0
    
