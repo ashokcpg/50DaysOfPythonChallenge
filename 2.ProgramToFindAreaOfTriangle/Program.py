@@ -11,7 +11,6 @@ Third = float(input('Enter Third Side : '))
 S = (First + Second + Third)/2
 
  #Calculate the area
-
 Area = (S*(S-First)*(S-Second)*(S-Third))**0.5
 print('The Area Of The Triangle Is %0.2f' %Area)
 
