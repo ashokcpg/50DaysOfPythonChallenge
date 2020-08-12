@@ -8,8 +8,8 @@ Number3 = input('Enter Third Number :')
 sum = float(Number1)+float(Number2)+float(Number3)
  
 #Display the sum
- 
 print('The sum of {0} , {1} and {2} is {3}'.format(Number1,Number2,Number3,sum))
+
 #output :
 #Enter First Number :980
 #Enter Second Number :909
