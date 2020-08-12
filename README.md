@@ -14,4 +14,5 @@
 | 10| Program to check if the number is Positive , Negative or Zero|
 | 11| Program to Print all prime Numbers in an Interval|
 | 12| Python Function Basics|
+| 13| Program to Check whether The Given Strings is Palindrome or Not|
 
