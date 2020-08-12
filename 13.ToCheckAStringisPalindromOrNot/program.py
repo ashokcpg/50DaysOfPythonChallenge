@@ -1,5 +1,4 @@
- 
-my_str = input("Enter a string: ")
+ my_str = input("Enter a string: ")
  
 #Make it suitable for caseless comparison
 my_str = my_str.casefold()
@@ -16,7 +15,8 @@ else:
    print("It is not palindrome")
 
 # Output:
-# Enter a string: aibophobia
+# Enter a string: repaper
+# It is palindrome
 
 # Enter a string: aakrity 
 # It is not palindrome
