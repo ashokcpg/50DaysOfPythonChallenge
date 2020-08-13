@@ -2,9 +2,7 @@
 #Three sides of triangle a ,b and c are provided by the user
 
 First = float(input('Enter First Side : '))
-
 Second = float(input('Enter Second Side : '))
-
 Third = float(input('Enter Third Side : '))
 
 #Calculate The Semi-Parameter
