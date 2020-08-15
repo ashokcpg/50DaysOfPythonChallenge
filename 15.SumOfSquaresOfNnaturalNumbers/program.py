@@ -5,11 +5,14 @@ def squareSum(num):
     sum = 0
     for i in range(1, num+1):
         sum = sum + (i * i)
-    return sum
+    return 
+    
 #Main Function
+
 number = int(input("Enter the number: "))
 print(f"The sum of square of numbers from 1 to {number} is : ")
 print(squareSum(number))
+
 
 #Output :
 # Enter the number: 4
