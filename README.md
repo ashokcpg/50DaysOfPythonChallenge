@@ -16,4 +16,7 @@
 | 12| Python Function Basics|
 | 13| Program to Check whether The Given Strings is Palindrome or Not|
 | 14| Program to Add Two Matrices Using Nested Loop  |
+| 15| Python Program to find sum of square of first n nature numbers.  |
+| 16| Program to Add Two Matrices Using Nested Loop  |
+| 17| Simple Python program to find sum of series with cubes of first n natural numbers   |
 
