@@ -6,8 +6,8 @@ y = 8
 print ("Before swapping: ")
 print("Value of x :",x,"and y:",y)
 
-#COD TO SWAP 'X' AND 'Y'
-
+#CODE TO SWAP 'X' AND 'Y'
+x,y = y,x
 print ("After swapping :")
 
 print("Value of x : ", x, " and y : ", y)
@@ -16,4 +16,4 @@ print("Value of x : ", x, " and y : ", y)
 # Before swapping: 
 # Value of x : 7 and y: 8
 # After swapping :
-# Value of x :  7  and y :  8
+# Value of x :  8  and y :  7
