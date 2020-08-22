@@ -23,5 +23,9 @@
 | 19| Python Program to Check Leap Year |
 | 20| Python Program to count vowels and Consonants in the list |
 | BREAK |
-| 21| Python Program to Python Program to Print Natural Numbers in Reverse Order using While Loop |
+| 21| Python Program to Print Natural Numbers in Reverse Order using While Loop |
+| 22| Python Program to Find Multiplication Table |
+
+
+Multiplication Table of 13 and 14 
 
