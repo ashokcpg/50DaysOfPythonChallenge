@@ -27,5 +27,4 @@
 | 22| Python Program to Find Multiplication Table |
 
 
-Multiplication Table of 13 and 14 
 
