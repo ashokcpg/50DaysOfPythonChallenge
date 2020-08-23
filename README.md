@@ -25,6 +25,7 @@
 | BREAK |
 | 21| Python Program to Print Natural Numbers in Reverse Order using While Loop |
 | 22| Python Program to Find Multiplication Table |
+| 23| Python Program to find Student Grade|
 
 
 
