@@ -26,6 +26,7 @@
 | 21| Python Program to Print Natural Numbers in Reverse Order using While Loop |
 | 22| Python Program to Find Multiplication Table |
 | 23| Python Program to find Student Grade|
+| 24| Python Program to check Number is Divisible by 5 and 11 or not |
 
 
 
