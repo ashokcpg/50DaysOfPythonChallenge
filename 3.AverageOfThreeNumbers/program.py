@@ -1,4 +1,5 @@
 #Program to find Average of Three Number
+
 firstNumber = float(input("Enter The first Number : "))
 secondNumber = float(input("Enter The second Number : "))
 thirdNumber = float(input("Enter The third Number : "))
@@ -13,8 +14,7 @@ print ('The Average of {0}, {1} and {2} is {3}'.format(firstNumber,secondNumber,
 
     #print('The Average Of three numbers is :',Avg)
 
-
-#output
+#output :
 # Enter The first Number : 10    
 # Enter The second Number : 20
 # Enter The third Number : 60
