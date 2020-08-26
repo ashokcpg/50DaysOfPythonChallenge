@@ -1,4 +1,4 @@
-Pyhton Program to check character is Alphabet or not 
+# Pyhton Program to check character is Alphabet or not 
 
 ch = input("Enter Your Character :")
 
