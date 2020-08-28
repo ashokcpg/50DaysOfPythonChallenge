@@ -4,7 +4,7 @@ maximum = int(input(" Enter the Maximum Value : "))
 minimum = int(input(" Enter the minimum Value : "))
 
 print("Palindrome Numbers between %d and %d are : " %(minimum, maximum))
-# print(f"Palindrome Numbers  Are : ")
+print(f"Palindrome Numbers  Are : ")
 
 for num in range(1, maximum + 1):
     temp = num
