@@ -22,7 +22,7 @@
 |  18   |     Python program to swap two numbers without using another variable      |
 |  19   |                     Python Program to Check Leap Year                      |
 |  20   |         Python Program to count vowels and Consonants in the list          |
-| BREAK |
+| BREAK |                                   BREAK                                    |
 |  21   | Python Program to Print Natural Numbers in Reverse Order using While Loop  |
 |  22   |                Python Program to Find Multiplication Table                 |
 |  23   |                    Python Program to find Student Grade                    |
@@ -30,6 +30,4 @@
 |  25   |                   Python Program to Find Power Of Number                   |
 |  26   |      Python Program Check Whether The Given Number is Alphabet or Not      |
 |  27   |        Python Program to check character is Lowercase or Uppercase.        |
-
-| 28 | Python Program to print palindrome numbers from 1 to 100 using loop |
-|
+|  28   |     Python Program to print palindrome numbers from Min to Max Numbers     |
