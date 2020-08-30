@@ -13,6 +13,7 @@ elif cp>sp :
 else:
     print("No Profit No Loss!!!")
 
+# Output :
 # Enter the Cost Price : 100
 # Enter the Selling Price : 120
 # Total Profit Amount is 20.0
