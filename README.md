@@ -31,3 +31,4 @@
 |  26   |      Python Program Check Whether The Given Number is Alphabet or Not      |
 |  27   |        Python Program to check character is Lowercase or Uppercase.        |
 |  28   |     Python Program to print palindrome numbers from Min to Max Numbers     |
+|  29   |                Python Program to Calculate Profit And Loss                 |
