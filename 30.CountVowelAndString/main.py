@@ -14,7 +14,7 @@ for i in strl:
 print("Total Number Of Vowels in this String :  ",vowels)
 print("Total Number Of Consonants in this String :  ", consonants)
 
-
+#Output :
 # Enter your string : Aakrity Chapagai 
 # Total Number Of Vowels in this String :   7   
 #  Total Number Of Consonants in this String :   9
