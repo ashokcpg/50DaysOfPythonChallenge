@@ -32,3 +32,4 @@
 |  27   |        Python Program to check character is Lowercase or Uppercase.        |
 |  28   |     Python Program to print palindrome numbers from Min to Max Numbers     |
 |  29   |                Python Program to Calculate Profit And Loss                 |
+|  30   |          Python Program to Count Vowels and Consonants in String.          |
