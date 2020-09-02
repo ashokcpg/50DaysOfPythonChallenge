@@ -1,4 +1,4 @@
-# Python Program to Perform Arithmetic Operations.
+# Python Program to Perform Arithmetic Operations
 
 num1 = float(input(" Enter the First  Number : "))
 num2 = float(input(" Enter the Second  Number : "))
