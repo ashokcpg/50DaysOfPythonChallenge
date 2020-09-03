@@ -34,3 +34,4 @@
 |  29   |                Python Program to Calculate Profit And Loss                 |
 |  30   |         Python Program to Count Vowels and Consonants in a String.         |
 |  31   |      Python Program to Show Calender For User Input Month and Year .       |
+|  32   |               A Number Guessing Game with Colorful Outputs .               |
