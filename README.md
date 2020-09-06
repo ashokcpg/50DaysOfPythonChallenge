@@ -35,3 +35,7 @@
 |  30   |         Python Program to Count Vowels and Consonants in a String.         |
 |  31   |      Python Program to Show Calender For User Input Month and Year .       |
 |  32   |               A Number Guessing Game with Colorful Outputs .               |
+|  33   |              Python Program to perform Arithmetic Operations.              |
+|  34   |                  Python Program to find cube of a Number.                  |
+|  35   | Python program to check whether the person is eligible for vote or not. .  |
+|  36   |              Python program to Print Even Numbers From 1 to N              |
