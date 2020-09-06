@@ -9,10 +9,8 @@ Programming         = float(input("Enter Marks in Programming :"))
 total = computerFundamental + digitalLogic + English + Math + Programming
 
 percentage = (total/500) * 100 
-
 print("Total Marks = %.2f" %total)
 print("Marks Percentage = %.2f" %percentage)
-
 # Output :
 # Enter Marks in Computer Fundamental :90
 # Enter Marks in Digital-Logic :83
