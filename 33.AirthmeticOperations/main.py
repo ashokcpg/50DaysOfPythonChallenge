@@ -18,7 +18,7 @@ div = num1 / num2
 # Modulus of num1 and num2
 mod = num1 % num2
 
-# Exponent of num1 and num2
+# Exponent of num1 and num2,
 expo = num1 ** num2
 
 #Output :
