@@ -11,10 +11,8 @@ for num in range(lowerNum, upperNum + 1):
                break
        else:
            print(num)
-
  #    Enter the lower number: 50 
 # Enter the upper number: 100
-
     # Prime numbers between 50 and 100 are:
     # 53
     # 59
