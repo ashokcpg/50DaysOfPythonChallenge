@@ -9,7 +9,6 @@ while (i >= 1):
     print (i, end = '  ')
     i = i - 1
 
-
 # Output :
 #     Enter any Number :18
 # List of Numbers From 18 to 1 in Reverse Order :
