@@ -8,7 +8,6 @@ rate = int(input("Enter the Rate :"))
 print("The interest is: ")
 interest = simpleInterest(principle,year,rate) #Function Calling 
 print(interest)
-
 # Enter the Principle :1000
 # Enter the Year :5
 # Enter the Rate :10
