@@ -1,5 +1,4 @@
 #Python program to Reverse Order Natural Number :
-
 Number = int(input("Enter any Number :"))
 i =  Number
 
