@@ -5,6 +5,7 @@ month = int(input("Enter the month: "))
 
 print(calendar.month(year, month))
 
+
 # Output :
 # Enter the year : 2002
 #  Enter the month : 1
