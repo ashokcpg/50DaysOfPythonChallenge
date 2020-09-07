@@ -40,3 +40,4 @@
 |  35   | Python program to check whether the person is eligible for vote or not. .  |
 |  36   |             Python program to Print Even Numbers From 1 to N .             |
 |  37   |             Python program to Print Odd Numbers From 1 to N .              |
+|  38   |           Python Program to find sum of elements in given array.           |
