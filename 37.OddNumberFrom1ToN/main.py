@@ -1,5 +1,4 @@
 # Python Program to Print Odd Numbers from 1 to N
-
 maximum = int(input(" Enter any Maximum Value : "))
 
 for number in range(1, maximum + 1, 2):
