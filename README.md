@@ -39,3 +39,4 @@
 |  34   |                  Python Program to find cube of a Number.                  |
 |  35   | Python program to check whether the person is eligible for vote or not. .  |
 |  36   |             Python program to Print Even Numbers From 1 to N .             |
+|  36   |             Python program to Print Odd Numbers From 1 to N .              |
