@@ -15,5 +15,8 @@ print()
 # 101001101
 
 
+# Decimal number is converted into binary by dividing the number successively
+#  by 2 and printing the remainder in reverse order.
 #  we have defined a function decimalToBinary() for the conversion. 
-# This function takes the decimal number as an input parameter and converts it into an equivalent binary number.
+# This function takes the decimal number as an input parameter and converts 
+# it into an equivalent binary number.
