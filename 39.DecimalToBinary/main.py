@@ -13,3 +13,7 @@ print()
 
 # Output :
 # 101001101
+
+
+#  we have defined a function decimalToBinary() for the conversion. 
+# This function takes the decimal number as an input parameter and converts it into an equivalent binary number.
