@@ -44,3 +44,5 @@
 |  39   |        Python Program to Convert Decimal Number into Binary Number.        |
 |  40   |         Python Program To Print All Divisors Of An Integer Number          |
 |  41   |                     Python Program Print Ascii Table.                      |
+|  42   |                Python Program to Check Automorphic Number.                 |
+|  43   |            Python Program to Find Cartesian Product of 2 List.             |
