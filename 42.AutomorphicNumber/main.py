@@ -35,3 +35,4 @@ else:
 # Automorphic or Cyclic Number Examples: 52 = 25, 62 = 36, 762 = 5776, 3762 = 141376
 
 # List of Automorphic Numbers: 0, 1, 5, 6, 25, 76, 376, 625, 9376, 90625, 
+# # 109376, 890625, 2890625, 7109376, 12890625, 87109376
