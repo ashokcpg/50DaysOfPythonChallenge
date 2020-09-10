@@ -1,3 +1,5 @@
+# Python program to find cartesian product of 2 list 
+
 setA = [1,2,3,4]
 setB = ['a','b','c']
 
