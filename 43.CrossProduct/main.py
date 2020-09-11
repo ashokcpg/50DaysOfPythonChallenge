@@ -5,7 +5,6 @@ setB = ['a','b','c']
 
 cross_product = [(i,j) for i in setA for j in setB]
 
-print(cross_product)
 
 # Output :
 # [(1, 'a'), (1, 'b'), (1, 'c'), (2, 'a'), (2, 'b'), (2, 'c'),
