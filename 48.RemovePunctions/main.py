@@ -1,4 +1,3 @@
-# Python Program to Remove Punctuations From a String
 
 # define punctuation
 punctuations = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
