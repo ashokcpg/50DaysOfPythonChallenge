@@ -1,4 +1,3 @@
-#Python Program to Illustrate Different Set Operations like in mathematics :
 
 A = {0,3,6,9,12,15};
 B = {1,2,4,5,7,8,14}

@@ -46,7 +46,8 @@
 |  41   |                     Python Program Print Ascii Table.                      |
 |  42   |                Python Program to Check Automorphic Number.                 |
 |  43   |            Python Program to Find Cartesian Product of 2 List.             |
-|  43   |     Python Program To Find Cartesian (Cross) Product Of Multiple List.     |
-|  44   |                 Python Program To Multiply Two Matrices .                  |
+|  44   |     Python Program To Find Cartesian (Cross) Product Of Multiple List.     |
 |  45   |                 Python Program To Multiply Two Matrices .                  |
-|  46   | Python Program To Illustrate Different Set Operations like in mathematics. |
+|  46   | Python Program to Illustrate Different Set Operations like in mathematics  |
+|  47   | Program to sort alphabeticallythe words form a string provided by the user |
+|  48   |            Python Program to Remove Punctuations From a String             |
