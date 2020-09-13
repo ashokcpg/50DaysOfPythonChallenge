@@ -49,4 +49,4 @@
 |  43   |     Python Program To Find Cartesian (Cross) Product Of Multiple List.     |
 |  44   |                 Python Program To Multiply Two Matrices .                  |
 |  45   |                 Python Program To Multiply Two Matrices .                  |
-|  46   |                 Python Program To Multiply Two Matrices .                  |
+|  46   | Python Program To Illustrate Different Set Operations like in mathematics. |
