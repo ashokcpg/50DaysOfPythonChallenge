@@ -11,6 +11,7 @@ print("Difference of A and B is",A - B)
 
 print("Difference of B and A is",B - A)
 
+print("Symmetric difference of A and B is", A^B)
 
 
 # Output :
