@@ -7,4 +7,4 @@ current_date = date(2020, 9, 15)
 
 delta = current_date - birth_date
 
-print("Number of days from your Birthdays = ",delta.days)
+print("Number of days since  your Birthdays = ",delta.days)
