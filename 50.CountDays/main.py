@@ -8,3 +8,6 @@ current_date = date(2020, 9, 15)
 delta = current_date - birth_date
 
 print("Number of days since  your Birthdays = ",delta.days)
+
+# Output :
+# Number of days  =  6802
