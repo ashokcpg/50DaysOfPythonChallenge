@@ -1,13 +1,11 @@
 #Python Program to calculate age in days from date of birth in Python.
+# particular_date = datetime(1996, 1, 1)
 
-from datetime import date
 
-birth_date = date(2002, 1, 31)
-current_date = date(2020, 9, 15)
+from datetime import datetime, timedelta
 
-delta = current_date - birth_date
+birth_date = int(input("Your date of birth(dd mm yyyy): "))
 
-print("Number of days since  your Birthdays = ",delta.days)
+new_date = datetime.today() - birth_date
+print (new_date.days)
 
-# Output :
-# Number of days  =  6802
