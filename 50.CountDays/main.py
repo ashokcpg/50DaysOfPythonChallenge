@@ -1,4 +1,3 @@
-#Python Program to calculate age in days from date of birth in Python.
 
 from datetime import date
 
