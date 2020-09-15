@@ -51,4 +51,6 @@
 |  46   | Python Program to Illustrate Different Set Operations like in mathematics  |
 |  47   | Program to sort alphabeticallythe words form a string provided by the user |
 |  48   |            Python Program to Remove Punctuations From a String             |
-|  49   |        Python Program to calculate age in days from your Birthdate         |
+|  49   |                      Python Program to Reduce Number                       |
+|  50   |        Python Program to calculate age in days from your Birthdate         |
+|  51   |             Python Program to Convert Celsius Into Fahrenheit              |
