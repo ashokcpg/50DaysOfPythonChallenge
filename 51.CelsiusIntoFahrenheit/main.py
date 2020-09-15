@@ -9,3 +9,10 @@ print("Fahrenheit ",fahrenheit)
 # Output : 
 # Enter Celcius: 98
 # Fahrenheit  208.4
+
+
+
+# Note : First we need to take input from user and use the 
+# following formula to convert it into farenheit.
+
+# Formula =  Fahrenheit = (Celsius * 9/5) + 32.
