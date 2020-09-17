@@ -41,3 +41,6 @@ else:
 # 5 1 5 1 2 = 14
 # 1 + 4 
 # 5 Sum is not equal to 1 so, it is not magc number.
+
+# calculate the sum of the digits until get a single-digit number as the sum. To count the number of digits we use math.log10()+1.
+# if sum is equal to 1 then it is a Magic number else not.
