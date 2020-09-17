@@ -29,3 +29,15 @@ else:
 
     #Enter any number :3232
         # Magic Number
+
+# Note : A Magic number is that Number whose repeated 
+# Sum if its digits till we get a single digit is equal to 1.
+
+# Example :
+    # 3 2 3 2 = 10
+    # 1+0
+    # 1 , Here sum is equal to 1 so it is a magic number.
+
+# 5 1 5 1 2 = 14
+# 1 + 4 
+# 5 Sum is not equal to 1 so, it is not magc number.
