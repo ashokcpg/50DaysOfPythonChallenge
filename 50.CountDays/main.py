@@ -31,3 +31,6 @@ if (age == 1):
 else:
     print("Your age: " + str(age) + " days.")
 
+    # Output :
+    # Enter your date of birth (dd mm yyyy): 31 01 2002
+
