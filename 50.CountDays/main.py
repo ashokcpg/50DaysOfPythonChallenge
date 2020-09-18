@@ -33,4 +33,5 @@ else:
 
     # Output :
     # Enter your date of birth (dd mm yyyy): 31 01 2002
+    # Your age: 6801 days.
 
