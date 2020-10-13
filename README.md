@@ -54,5 +54,4 @@
 |  49   |                      Python Program to Reduce Number                       |
 |  50   |        Python Program to calculate age in days from your Birthdate         |
 |  51   |             Python Program to Convert Celsius Into Fahrenheit              |
-|  51   |             Python Program to Convert Fahrenheit Into Celsius              |
 
