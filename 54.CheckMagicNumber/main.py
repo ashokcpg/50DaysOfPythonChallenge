@@ -1,4 +1,6 @@
 # Python Program for Magic Number.
+# Note : A Magic number is that Number whose repeated 
+# Sum if its digits till we get a single digit is equal to 1.
 
 import math
 
@@ -29,9 +31,6 @@ else:
 
     #Enter any number :3232
         # Magic Number
-
-# Note : A Magic number is that Number whose repeated 
-# Sum if its digits till we get a single digit is equal to 1.
 
 # Example :
     # 3 2 3 2 = 10
